@@ -1,0 +1,25 @@
+#국가별코드
+https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=secure-edu&logNo=221650711197
+
+#국가코드 매칭
+https://kit2013.tistory.com/310
+
+#csv예제
+https://the-dev.tistory.com/22
+https://book.coalastudy.com/data_crawling/week4/stage2
+http://pythonstudy.xyz/python/article/207-CSV-%ED%8C%8C%EC%9D%BC-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0
+https://nerogarret.tistory.com/63
+https://velog.io/@dmstj907/Python%EC%9E%90%EB%8F%99%ED%99%94%EC%B2%98%EB%A6%AC-CSV%ED%8C%8C%EC%9D%BC-%EC%9D%BD%EA%B3%A0%EC%93%B0%EA%B8%B0
+https://yang-wistory1009.tistory.com/81
+
+#Dict 예제
+https://devinside.tistory.com/162?category=244108
+
+#Dict 중복제거
+https://kangprog.tistory.com/27
+
+#쉡게따라하는 데이터 수집기 만들기
+https://book.coalastudy.com/data_crawling/week4/stage2
+
+#정규식
+https://codesample-factory.tistory.com/2275
